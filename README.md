@@ -1,10 +1,5 @@
-# URSim - Unity implementation
+# Unity - uninhabited underwater vehicle simulator (Graduation Qualification Work).
 
+This repository contains the completed simulator project.
 
-This repository contains all the code for the simulation environments created using Unity-3D to be able to test UUVs in a virtual environment. 
-
-Unity development environment -
-
-<img src="../docs/assets/unity_dev.png" width="1000px"/>
-
-<!-- This simulation setup acts as a test-bed for the implementation of computer vision, control and mission planner algorithms. -->
+The project contains implementations of computer vision, control and mission planning algorithms.
