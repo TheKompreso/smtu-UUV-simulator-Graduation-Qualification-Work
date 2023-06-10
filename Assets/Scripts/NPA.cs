@@ -53,11 +53,11 @@ public class NPA : MonoBehaviour
     }
     void Update()
     {
-        OutputText.text = $"Время: {time.hours.ToString("D2")}:{time.minutes.ToString("D2")}:{time.seconds.ToString("D2")}\n" +
-            $"Заряд батареи: {string.Format("{0:0.00}", battery / batteryMax * 100)}% (выключится в {EndTime.hours.ToString("D2")}:{EndTime.minutes.ToString("D2")}:{EndTime.seconds.ToString("D2")})\n" +
-            $"Скорость: {string.Format("{0:0.00}", speed)} м/с\n" +
-            $"Глубина: {string.Format("{0:0.00}", this.transform.position.y)} м.\n" +
-            $"Запас хода(кабель): {string.Format("{0:0.00}", cableLength - Vector3.Distance(new Vector3(transform.position.x, transform.position.y, transform.position.z), new Vector3(cable.position.x, cable.position.y, cable.position.z)))} м.";
+        OutputText.text = $"Time: {time.hours.ToString("D2")}:{time.minutes.ToString("D2")}:{time.seconds.ToString("D2")}\n" +
+            $"Battery charge: {string.Format("{0:0.00}", battery / batteryMax * 100)}% (turn off at {EndTime.hours.ToString("D2")}:{EndTime.minutes.ToString("D2")}:{EndTime.seconds.ToString("D2")})\n" +
+            $"Speed: {string.Format("{0:0.00}", speed)} meter per second\n" +
+            $"Depth: {string.Format("{0:0.00}", this.transform.position.y)} m.\n" +
+            $"Range(cable): {string.Format("{0:0.00}", cableLength - Vector3.Distance(new Vector3(transform.position.x, transform.position.y, transform.position.z), new Vector3(cable.position.x, cable.position.y, cable.position.z)))} m.";
     }
     private void FixedUpdate()
     {

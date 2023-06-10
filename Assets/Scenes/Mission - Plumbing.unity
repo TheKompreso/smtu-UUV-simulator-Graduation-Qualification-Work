@@ -21285,11 +21285,16 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u0412\u0440\u0435\u043C\u044F: 14:34:00\n\u0417\u0430\u0440\u044F\u0434
-    \u0431\u0430\u0442\u0430\u0440\u0435\u0438: 0.00% (\u0432\u044B\u043A\u043B\u044E\u0447\u0438\u0442\u0441\u044F
-    \u0432 14:34:00)\n\u0421\u043A\u043E\u0440\u043E\u0441\u0442\u044C: 0 \u043C/c\n\u0413\u043B\u0443\u0431\u0438\u043D\u0430:
-    -30.0 \u043C.\n\u0417\u0430\u043F\u0430\u0441 \u0445\u043E\u0434\u0430(\u043A\u0430\u0431\u0435\u043B\u044C):
-    40 \u043C."
+  m_text: 'Time: 00:00:23
+
+    Battery charge: 99,80% (turn off at 03:18:35)
+
+    Speed:
+    0,00 meter per second
+
+    Depth: -33,37 m.
+
+    Range(cable): 196,55 m.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -22010,12 +22015,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   OutputText: {fileID: 2098889250}
   cable: {fileID: 1773087216}
-  speedMax: 1.5
-  batteryStart: 200
-  batteryMax: 200
+  speedMax: 7
+  batteryStart: 40
+  batteryMax: 40
   basicChargeConsumption: 60
   motorChargeConsumption: 35
-  maxImmersionDepth: 80
+  maxImmersionDepth: 70
   cableLength: 250
 --- !u!4 &289893802959845868
 Transform:
