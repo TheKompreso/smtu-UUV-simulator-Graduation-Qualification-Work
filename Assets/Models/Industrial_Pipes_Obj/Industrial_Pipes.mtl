@@ -1,0 +1,786 @@
+# Blender MTL File: 'Industrial_Pipes.blend'
+# Material Count: 56
+
+newmtl Bolt_Head
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\End_Cap_01\\Bolt_Head_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\End_Cap_01\\Bolt_Head_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\End_Cap_01\\Bolt_Head_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\End_Cap_01\\Bolt_Head_Metallic.png
+
+newmtl Dial_Guage_01
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pressure_Guage_01\\Pressure_Guage_01_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pressure_Guage_01\\Pressure_Guage_01_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pressure_Guage_01\\Pressure_Guage_01_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pressure_Guage_01\\Pressure_Guage_01_Metallic.png
+
+newmtl Dial_Guage_01_Face
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pressure_Guage_01\\Pressure_Guage_01_Face_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pressure_Guage_01\\Pressure_Guage_01_Face_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pressure_Guage_01\\Pressure_Guage_01_Face_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pressure_Guage_01\\Pressure_Guage_01_Face_Metallic.png
+
+newmtl Dial_Guage_02
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pressure_Guage_02\\Pressure_Guage_02_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pressure_Guage_02\\Pressure_Guage_02_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pressure_Guage_02\\Pressure_Guage_02_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pressure_Guage_02\\Pressure_Guage_02_Metallic.png
+
+newmtl Dial_Guage_02_Face
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pressure_Guage_02\\Pressure_Guage_02_Face_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pressure_Guage_02\\Pressure_Guage_02_Face_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pressure_Guage_02\\Pressure_Guage_02_Face_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pressure_Guage_02\\Pressure_Guage_02_Face_Metallic.png
+
+newmtl Dial_Guage_03
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pressure_Guage_03\\Pressure_Guage_03_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pressure_Guage_03\\Pressure_Guage_03_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pressure_Guage_03\\Pressure_Guage_03_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pressure_Guage_03\\Pressure_Guage_03_Metallic.png
+
+newmtl Dial_Guage_03_Face
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pressure_Guage_03\\Pressure_Guage_03_Face_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pressure_Guage_03\\Pressure_Guage_03_Face_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pressure_Guage_03\\Pressure_Guage_03_Face_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pressure_Guage_03\\Pressure_Guage_03_Face_Metallic.png
+
+newmtl Dial_Guage_04
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pressure_Guage_04\\Pressure_Guage_04_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pressure_Guage_04\\Pressure_Guage_04_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pressure_Guage_04\\Pressure_Guage_04_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pressure_Guage_04\\Pressure_Guage_04_Metallic.png
+
+newmtl Dial_Guage_04_Face
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pressure_Guage_04\\Pressure_Guage_04_Face_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pressure_Guage_04\\Pressure_Guage_04_Face_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pressure_Guage_04\\Pressure_Guage_04_Face_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pressure_Guage_04\\Pressure_Guage_04_Face_Metallic.png
+
+newmtl Dial_Guage_05
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pressure_Guage_05\\Pressure_Guage_05_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pressure_Guage_05\\Pressure_Guage_05_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pressure_Guage_05\\Pressure_Guage_05_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pressure_Guage_05\\Pressure_Guage_05_Metallic.png
+
+newmtl Dial_Guage_05_Face
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pressure_Guage_05\\Pressure_Guage_05_Face_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pressure_Guage_05\\Pressure_Guage_05_Face_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pressure_Guage_05\\Pressure_Guage_05_Face_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pressure_Guage_05\\Pressure_Guage_05_Face_Metallic.png
+
+newmtl End_Cap_01
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\End_Cap_01\\End_Cap_01_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\End_Cap_01\\End_Cap_01_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\End_Cap_01\\End_Cap_01_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\End_Cap_01\\End_Cap_01_Metallic.png
+
+newmtl End_Cap_02
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\End_Caps\\End_Cap_02_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\End_Caps\\End_Cap_02_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\End_Caps\\End_Cap_02_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\End_Caps\\End_Cap_02_Metallic.png
+
+newmtl End_Cap_03
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\End_Caps\\End_Cap_03_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\End_Caps\\End_Cap_03_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\End_Caps\\End_Cap_03_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\End_Caps\\End_Cap_03_Metallic.png
+
+newmtl Handwheel_01_Red
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Handwheel_01_Red\\Handwheel_Red_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Handwheel_01_Red\\Handwheel_Red_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Handwheel_01_Red\\Handwheel_Red_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Handwheel_01_Red\\Handwheel_Red_Metallic.png
+
+newmtl Handwheel_02_Yellow
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Handwheel_02_Yellow\\Handwheel_02_Yellow_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Handwheel_02_Yellow\\Handwheel_02_Yellow_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Handwheel_02_Yellow\\Handwheel_02_Yellow_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Handwheel_02_Yellow\\Handwheel_02_Yellow_Metallic.png
+
+newmtl Handwheel_03_Brass
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Handwheel_03_Brass\\Handwheel_03_Brass_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Handwheel_03_Brass\\Handwheel_03_Brass_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Handwheel_03_Brass\\Handwheel_03_Brass_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Handwheel_03_Brass\\Handwheel_03_Brass_Metallic.png
+
+newmtl Handwheel_04_Bronze
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Handwheel_04_Bronze\\Handwheel_04_Bronze_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Handwheel_04_Bronze\\Handwheel_04_Bronze_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Handwheel_04_Bronze\\Handwheel_04_Bronze_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Handwheel_04_Bronze\\Handwheel_04_Bronze_Metallic.png
+
+newmtl Long_Pipe_Short_Bend
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Long_Pipe_Short_Bend\\Long_Pipe_Short_Bend_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Long_Pipe_Short_Bend\\Long_Pipe_Short_Bend_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Long_Pipe_Short_Bend\\Long_Pipe_Short_Bend_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Long_Pipe_Short_Bend\\Long_Pipe_Short_Bend_Metallic.png
+
+newmtl Long_Pipe_With_Bend
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Long_Pipe_With_Bend\\Long_Pipe_With_Bend_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Long_Pipe_With_Bend\\Long_Pipe_With_Bend_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Long_Pipe_With_Bend\\Long_Pipe_With_Bend_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Long_Pipe_With_Bend\\Long_Pipe_With_Bend_Metallic.png
+
+newmtl Medium_Pipe_Short_Bend
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Medium_Pipe_Short_Bend\\Medium_Pipe_Short_Bend_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Medium_Pipe_Short_Bend\\Medium_Pipe_Short_Bend_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Medium_Pipe_Short_Bend\\Medium_Pipe_Short_Bend_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Medium_Pipe_Short_Bend\\Medium_Pipe_Short_Bend_Metallic.png
+
+newmtl Medium_Pipe_With_Bend
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Medium_Pipe_With_Bend\\Medium_Pipe_With_Bend_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Medium_Pipe_With_Bend\\Medium_Pipe_With_Bend_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Medium_Pipe_With_Bend\\Medium_Pipe_With_Bend_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Medium_Pipe_With_Bend\\Medium_Pipe_With_Bend_Metallic.png
+
+newmtl Nut
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Nut_Thread\\Nut_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Nut_Thread\\Nut_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Nut_Thread\\Nut_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Nut_Thread\\Nut_Metallic.png
+
+newmtl Nut.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Nut_Thread\\Nut_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Nut_Thread\\Nut_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Nut_Thread\\Nut_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Nut_Thread\\Nut_Metallic.png
+
+newmtl Pipe_06
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_06\\Pipe_Bend_06_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_06\\Pipe_Bend_06_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_06\\Pipe_Bend_06_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_06\\Pipe_Bend_06_Metallic.png
+
+newmtl Pipe_Bend_01
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_01\\Pipe_Bend_01_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_01\\Pipe_Bend_01_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_01\\Pipe_Bend_01_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_01\\Pipe_Bend_01_Metallic.png
+
+newmtl Pipe_Bend_02
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_02\\Pipe_Bend_02_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_02\\Pipe_Bend_02_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_02\\Pipe_Bend_02_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_02\\Pipe_Bend_02_Metallic.png
+
+newmtl Pipe_Bend_03
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_03\\Pipe_Bend_03_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_03\\Pipe_Bend_03_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_03\\Pipe_Bend_03_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_03\\Pipe_Bend_03_Metallic.png
+
+newmtl Pipe_Bend_04
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_04\\Pipe_Bend_04_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_04\\Pipe_Bend_04_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_04\\Pipe_Bend_04_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_04\\Pipe_Bend_04_Metallic.png
+
+newmtl Pipe_Bend_05
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_05\\Pipe_Bend_05_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_05\\Pipe_Bend_05_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_05\\Pipe_Bend_05_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_05\\Pipe_Bend_05_Metallic.png
+
+newmtl Pipe_Bend_07
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_07\\Pipe_Bend_07_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_07\\Pipe_Bend_07_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_07\\Pipe_Bend_07_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_07\\Pipe_Bend_07_Metallic.png
+
+newmtl Pipe_Bend_08
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_08\\Pipe_Bend_08_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_08\\Pipe_Bend_08_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_08\\Pipe_Bend_08_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_08\\Pipe_Bend_08_Metallic.png
+
+newmtl Pipe_Bend_09
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_09\\Pipe_Bend_09_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_09\\Pipe_Bend_09_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_09\\Pipe_Bend_09_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_09\\Pipe_Bend_09_Metallic.png
+
+newmtl Pipe_Bend_10
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_10\\Pipe_Bend_10_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_10\\Pipe_Bend_10_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_10\\Pipe_Bend_10_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_10\\Pipe_Bend_10_Metallic.png
+
+newmtl Pipe_Bend_11
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_11\\Pipe_Bend_11_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_11\\Pipe_Bend_11_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_11\\Pipe_Bend_11_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_11\\Pipe_Bend_11_Metallic.png
+
+newmtl Pipe_Bend_12
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_12\\Pipe_Bend_12_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_12\\Pipe_Bend_12_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_12\\Pipe_Bend_12_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_12\\Pipe_Bend_12_Metallic.png
+
+newmtl Pipe_Bend_13
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_13\\Pipe_Bend_13_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_13\\Pipe_Bend_13_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_13\\Pipe_Bend_13_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Bend_13\\Pipe_Bend_13_Metallic.png
+
+newmtl Pipe_Cross_Piece
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Cross_Piece\\Pipe_Cross_Piece_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Cross_Piece\\Pipe_Cross_Piece_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Cross_Piece\\Pipe_Cross_Piece_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Cross_Piece\\Pipe_Cross_Piece_Metallic.png
+
+newmtl Pipe_Straight_Long
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Straight_Long\\Pipe_Straight_Long_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Straight_Long\\Pipe_Straight_Long_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Straight_Long\\Pipe_Straight_Long_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Straight_Long\\Pipe_Straight_Long_Metallic.png
+
+newmtl Pipe_Straight_Medium
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Straight_Medium\\Pipe_Staight_Medium_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Straight_Medium\\Pipe_Staight_Medium_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Straight_Medium\\Pipe_Staight_Medium_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Straight_Medium\\Pipe_Staight_Medium_Metallic.png
+
+newmtl Pipe_Straight_Pressure_Guage
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Straight_Pressure_Guage\\Pipe_Straight_Pressure_Guage_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Straight_Pressure_Guage\\Pipe_Straight_Pressure_Guage_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Straight_Pressure_Guage\\Pipe_Straight_Pressure_Guage_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Straight_Pressure_Guage\\Pipe_Straight_Pressure_Guage_Metallic.png
+
+newmtl Pipe_Straight_Short
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Straight_Short\\Pipe_Straight_Short_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Straight_Short\\Pipe_Straight_Short_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Straight_Short\\Pipe_Straight_Short_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Straight_Short\\Pipe_Straight_Short_Metallic.png
+
+newmtl Pipe_Straight_Shortest
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Straight_Shortest\\Pipe_Straight_Shortest_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Straight_Shortest\\Pipe_Straight_Shortest_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Straight_Shortest\\Pipe_Straight_Shortest_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_Straight_Shortest\\Pipe_Straight_Shortest_Metallic.png
+
+newmtl Pipe_T_Piece
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_T_Piece\\Pipe_T_Piece_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_T_Piece\\Pipe_T_Piece_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_T_Piece\\Pipe_T_Piece_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_T_Piece\\Pipe_T_Piece_Metallic.png
+
+newmtl Pipe_With_Valve_01
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_With_Valve_01\\Pipe_With_Valve_01_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_With_Valve_01\\Pipe_With_Valve_01_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_With_Valve_01\\Pipe_With_Valve_01_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_With_Valve_01\\Pipe_With_Valve_01_Metallic.png
+
+newmtl Pipe_With_Valve_01_Decal
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_With_Valve_01_Decal\\Pipe_With_Valve_01_Decal_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_With_Valve_01_Decal\\Pipe_With_Valve_01_Decal_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_With_Valve_01_Decal\\Pipe_With_Valve_01_Decal_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_With_Valve_01_Decal\\Pipe_With_Valve_01_Decal_Metallic.png
+
+newmtl Pipe_With_Valve_02
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_With_Valve_02\\Pipe_With_Valve_02_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_With_Valve_02\\Pipe_With_Valve_02_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_With_Valve_02\\Pipe_With_Valve_02_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_With_Valve_02\\Pipe_With_Valve_02_Metallic.png
+
+newmtl Pipe_With_Valve_02_Decal
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_With_Valve_02_Decal\\Pipe_With_Valve_02_Decal_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_With_Valve_02_Decal\\Pipe_With_Valve_02_Decal_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_With_Valve_02_Decal\\Pipe_With_Valve_02_Decal_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_With_Valve_02_Decal\\Pipe_With_Valve_02_Decal_Metallic.png
+
+newmtl Pipe_With_Valve_03
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_With_Valve_03\\Pipe_With_Valve_03_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_With_Valve_03\\Pipe_With_Valve_03_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_With_Valve_03\\Pipe_With_Valve_03_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_With_Valve_03\\Pipe_With_Valve_03_Metallic.png
+
+newmtl Pipe_With_Valve_03_Decal
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_With_Valve_03_Decal\\Pipe_With_Valve_03_Decal_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_With_Valve_03_Decal\\Pipe_With_Valve_03_Decal_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_With_Valve_03_Decal\\Pipe_With_Valve_03_Decal_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Pipe_With_Valve_03_Decal\\Pipe_With_Valve_03_Decal_Metallic.png
+
+newmtl Short_Pipe_Short_Bend
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Short_Pipe_Short_Bend\\Short_Pipe_Short_Bend_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Short_Pipe_Short_Bend\\Short_Pipe_Short_Bend_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Short_Pipe_Short_Bend\\Short_Pipe_Short_Bend_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Short_Pipe_Short_Bend\\Short_Pipe_Short_Bend_Metallic.png
+
+newmtl Short_Pipe_With_Bend
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Short_Pipe_With_Bend\\Short_Pipe_With_Bend_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Short_Pipe_With_Bend\\Short_Pipe_With_Bend_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Short_Pipe_With_Bend\\Short_Pipe_With_Bend_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Short_Pipe_With_Bend\\Short_Pipe_With_Bend_Metallic.png
+
+newmtl Shortest_Pipe_Short_Bend
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Shortest_Pipe_Short_Bend\\Shortest_Pipe_Short_Bend_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Shortest_Pipe_Short_Bend\\Shortest_Pipe_Short_Bend_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Shortest_Pipe_Short_Bend\\Shortest_Pipe_Short_Bend_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Shortest_Pipe_Short_Bend\\Shortest_Pipe_Short_Bend_Metallic.png
+
+newmtl Shortest_Pipe_With_Bend
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Shortest_Pipe_With_Bend\\Shortest_Pipe_With_Bend_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Shortest_Pipe_With_Bend\\Shortest_Pipe_With_Bend_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Shortest_Pipe_With_Bend\\Shortest_Pipe_With_Bend_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Shortest_Pipe_With_Bend\\Shortest_Pipe_With_Bend_Metallic.png
+
+newmtl Thread
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Nut_Thread\\Thread_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Nut_Thread\\Thread_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Nut_Thread\\Thread_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Nut_Thread\\Thread_Metallic.png
+
+newmtl Thread.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Nut_Thread\\Thread_Normal.png
+map_Kd C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Nut_Thread\\Thread_BaseColor.png
+map_Ns C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Nut_Thread\\Thread_Roughness.png
+refl C:\\Users\\STU\\Desktop\\Blender Renders\\SteamPunk\\Textures\\Nut_Thread\\Thread_Metallic.png

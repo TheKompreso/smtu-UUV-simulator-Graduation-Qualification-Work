@@ -1,0 +1,26 @@
+# Blender 3.5.0 MTL File: 'sketchfab.blend'
+# www.blender.org
+
+newmtl Submarine
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/Thomas Monnom/Documents/Adobe/Adobe Substance 3D Painter/export/Submarine_basecolor.png
+map_Ns C:/Users/Thomas Monnom/Documents/Adobe/Adobe Substance 3D Painter/export/Submarine_roughness.png
+map_refl C:/Users/Thomas Monnom/Documents/Adobe/Adobe Substance 3D Painter/export/Submarine_metallic.png
+map_Bump -bm 1.000000 C:/Users/Thomas Monnom/Documents/Adobe/Adobe Substance 3D Painter/export/Submarine_normal.png
+
+newmtl Submarine_transparent
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd C:/Users/Thomas Monnom/Documents/Adobe/Adobe Substance 3D Painter/export/Submarine_basecolor.png
+map_Ns C:/Users/Thomas Monnom/Documents/Adobe/Adobe Substance 3D Painter/export/Submarine_roughness.png
+map_refl C:/Users/Thomas Monnom/Documents/Adobe/Adobe Substance 3D Painter/export/Submarine_metallic.png
+map_d C:/Users/Thomas Monnom/Documents/Adobe/Adobe Substance 3D Painter/export/Submarine_opacity.png
+map_Bump -bm 1.000000 C:/Users/Thomas Monnom/Documents/Adobe/Adobe Substance 3D Painter/export/Submarine_normal.png

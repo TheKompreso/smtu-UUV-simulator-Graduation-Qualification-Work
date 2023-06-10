@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TestGeneration
+  m_Shader: {fileID: 4800000, guid: b998295036a90984e8c5170abc19b8ec, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DeepHeight: 0
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _ForestHeigh: 0.6
+    - _ForestHeight: 9.7
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _GrassHeigh: 0.4
+    - _GrassHeight: 8.9
+    - _HeightScale: 62.8
+    - _LamberdScale: 0.464
+    - _Metallic: 0
+    - _MinHeight: 4.3
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _OutlineScale: 0
+    - _Parallax: 0.02
+    - _RockHeigh: 0.95
+    - _RockHeight: 14.1
+    - _SandHeigh: 0.246
+    - _SandHeight: 8.1
+    - _ShallowHeigh: 0.147
+    - _ShallowHeight: 7.41
+    - _SmoothTransitionDeep: 127.2
+    - _SmoothTransitionForest: 2000
+    - _SmoothTransitionGrass: 57.1
+    - _SmoothTransitionRock: 10
+    - _SmoothTransitionSand: 500
+    - _SmoothTransitionShallow: 100
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _ZWrite: 1
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _DeepColor: {r: 0.25539336, g: 0.25539336, b: 0.3207547, a: 1}
+    - _Diffuse: {r: 0.8679245, g: 0.48636523, b: 0.48636523, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _ForestColor: {r: 0.37146387, g: 0.3773585, b: 0.12602347, a: 1}
+    - _GrassColor: {r: 0.2264151, g: 0.22163825, b: 0.17386971, a: 1}
+    - _OutlineColor: {r: 0.764151, g: 0.3489142, b: 0.7208705, a: 1}
+    - _PreviousColor: {r: 1, g: 1, b: 1, a: 1}
+    - _RockColor: {r: 0.033321463, g: 0.1509434, b: 0.036134146, a: 1}
+    - _SandColor: {r: 0.1792453, g: 0.17146672, b: 0.17146672, a: 1}
+    - _ShallowColor: {r: 0.084905684, g: 0.084905684, b: 0.0804201, a: 1}
+    - _SnowColor: {r: 0.11320752, g: 0.11320752, b: 0.11320752, a: 1}
+  m_BuildTextureStacks: []

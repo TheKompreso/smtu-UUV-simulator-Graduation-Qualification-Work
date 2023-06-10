@@ -1,0 +1,1010 @@
+# Blender 3.4.1 MTL File: 'HMS_Daring_Type_45.blend'
+# www.blender.org
+
+newmtl 1920px-Naval_Ensign_of_Great_Britain_(1707–1800).svg.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 80503
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Black_Colour.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Middle_Deck_Area_Black_Colour_BaseColor.png
+map_Ns C:/Middle_Deck_Area_Black_Colour_Roughness.png
+map_refl C:/Middle_Deck_Area_Black_Colour_Metallic.png
+map_Bump -bm 1.500000 C:/Middle_Deck_Area_Black_Colour_Normal.png
+
+newmtl Black_Colour.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Main_Mast_Section_Black_Colour.002_BaseColor.png
+map_Ns C:/Main_Mast_Section_Black_Colour.002_Roughness.png
+map_refl C:/Main_Mast_Section_Black_Colour.002_Metallic.png
+map_Bump -bm 1.500000 C:/Main_Mast_Section_Black_Colour.002_Normal.png
+
+newmtl Black_Yellow_Squares_Flag
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Blue_Cross_On_White_Flag
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Bridge
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Bridge_Bridge_BaseColor.png
+map_Ns C:/Bridge_Bridge_Roughness.png
+map_refl C:/Bridge_Bridge_Metallic.png
+map_Bump -bm 1.500000 C:/Bridge_Bridge_Normal.png
+
+newmtl Bridge_Deck_Floor
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Bridge_Deck_Bridge_Deck_Floor_BaseColor.png
+map_Ns C:/Bridge_Deck_Bridge_Deck_Floor_Roughness.png
+map_refl C:/Bridge_Deck_Bridge_Deck_Floor_Metallic.png
+map_Bump -bm 1.500000 C:/Bridge_Deck_Bridge_Deck_Floor_Normal.png
+
+newmtl Bridge_Deck_Outer
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Bridge_Deck_Bridge_Deck_Outer_BaseColor.png
+map_Ns C:/Bridge_Deck_Bridge_Deck_Outer_Roughness.png
+map_refl C:/Bridge_Deck_Bridge_Deck_Outer_Metallic.png
+map_Bump -bm 1.500000 C:/Bridge_Deck_Bridge_Deck_Outer_Normal.png
+
+newmtl Bridge_Glass
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Bridge_Bridge_Glass_BaseColor.png
+map_Ns C:/Bridge_Bridge_Glass_Roughness.png
+map_refl C:/Bridge_Bridge_Glass_Metallic.png
+map_Bump -bm 1.500000 C:/Bridge_Bridge_Glass_Normal.png
+
+newmtl Bridge_Roof
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Bridge_Bridge_Roof_BaseColor.png
+map_Ns C:/Bridge_Bridge_Roof_Roughness.png
+map_refl C:/Bridge_Bridge_Roof_Metallic.png
+map_Bump -bm 1.500000 C:/Bridge_Bridge_Roof_Normal.png
+
+newmtl Checker_Backplate_Colour
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.123659 0.123659 0.123659
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Clay_Render_Material
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Daring_Crest
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Dark_Grey_Dirty
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Dark_Grey_Mid_Deck.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Middle_Deck_Area_Dark_Grey_Mid_Deck_BaseColor.png
+map_Ns C:/Middle_Deck_Area_Dark_Grey_Mid_Deck_Roughness.png
+map_refl C:/Middle_Deck_Area_Dark_Grey_Mid_Deck_Metallic.png
+map_Bump -bm 1.500000 C:/Middle_Deck_Area_Dark_Grey_Mid_Deck_Normal.png
+
+newmtl Dark_Grey_Mid_Deck.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Main_Mast_Section_Dark_Grey_Mid_Deck.002_BaseColor.png
+map_Ns C:/Main_Mast_Section_Dark_Grey_Mid_Deck.002_Roughness.png
+map_refl C:/Main_Mast_Section_Dark_Grey_Mid_Deck.002_Metallic.png
+map_Bump -bm 1.500000 C:/Main_Mast_Section_Dark_Grey_Mid_Deck.002_Normal.png
+
+newmtl Depth_Marker
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Front_Rope
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Hull_Front_Rope_BaseColor.png
+map_Ns C:/Hull_Front_Rope_Roughness.png
+map_refl C:/Hull_Front_Rope_Metallic.png
+map_Bump -bm 1.000000 C:/Hull_Front_Rope_Normal.png
+
+newmtl Grill_Inner
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Grill_Inner.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Grill_Inner.002_Light_Corrosion
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Grill_Inner_Dark
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Grill_Inner_Dirty
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Grill_Outer
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Grill_Outer.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Grill_Outer.002_Light_Corrosion
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Grill_Outer_Dirty
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Grill_Outer_Dirty_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Grill_Outer_Dirty_02
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Gun_Barrel_Black
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Guns_Gun_Barrel_Black_BaseColor.png
+map_Ns C:/Guns_Gun_Barrel_Black_Roughness.png
+map_refl C:/Guns_Gun_Barrel_Black_Metallic.png
+map_Bump -bm 1.000000 C:/Guns_Gun_Barrel_Black_Normal.png
+
+newmtl Gun_Dark_Grey
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Guns_Gun_Dark_Grey_BaseColor.png
+map_Ns C:/Guns_Gun_Dark_Grey_Roughness.png
+map_refl C:/Guns_Gun_Dark_Grey_Metallic.png
+map_Bump -bm 1.000000 C:/Guns_Gun_Dark_Grey_Normal.png
+
+newmtl Gun_Light_Grey
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Guns_Gun_Light_Grey_BaseColor.png
+map_Ns C:/Guns_Gun_Light_Grey_Roughness.png
+map_refl C:/Guns_Gun_Light_Grey_Metallic.png
+map_Bump -bm 1.000000 C:/Guns_Gun_Light_Grey_Normal.png
+
+newmtl Gun_Ring_Black
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Gun_Ring_Yellow
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Gun_Scope_Glass
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Guns_Gun_Scope_Glass_BaseColor.png
+map_Ns C:/Guns_Gun_Scope_Glass_Roughness.png
+map_refl C:/Guns_Gun_Scope_Glass_Metallic.png
+map_Bump -bm 1.000000 C:/Guns_Gun_Scope_Glass_Normal.png
+
+newmtl Gun_White
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ns C:/Guns_Gun_White_Roughness.png
+map_refl C:/Guns_Gun_White_Metallic.png
+map_Bump -bm 1.000000 C:/Guns_Gun_White_Normal.png
+
+newmtl HMS_DARING
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Hull_Bottom_Red
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Hull_Hull_Bottom_Red_BaseColor.png
+map_Ns C:/Hull_Hull_Bottom_Red_Roughness.png
+map_refl C:/Hull_Hull_Bottom_Red_Metallic.png
+map_Bump -bm 1.000000 C:/Hull_Hull_Bottom_Red_Normal.png
+
+newmtl Hull_Deck
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Hull_Hull_Deck_BaseColor.png
+map_Ns C:/Hull_Hull_Deck_Roughness.png
+map_refl C:/Hull_Hull_Deck_Metallic.png
+map_Bump -bm 1.500000 C:/Hull_Hull_Deck_Normal.png
+
+newmtl Hull_Main_Colour
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Hull_Hull_Main_Colour_BaseColor.png
+map_Ns C:/Hull_Hull_Main_Colour_Roughness.png
+map_refl C:/Hull_Hull_Main_Colour_Metallic.png
+map_Bump -bm 0.200000 C:/Hull_Hull_Main_Colour_Normal.png
+
+newmtl Hull_Middle_Grey
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Hull_Hull_Middle_Grey_BaseColor.png
+map_Ns C:/Hull_Hull_Middle_Grey_Roughness.png
+map_refl C:/Hull_Hull_Middle_Grey_Metallic.png
+map_Bump -bm 1.000000 C:/Hull_Hull_Middle_Grey_Normal.png
+
+newmtl Launcher_Bay_Inner
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Missile_Launcher_Launcher_Bay_Inner_BaseColor.png
+map_Ns C:/Missile_Launcher_Launcher_Bay_Inner_Roughness.png
+map_refl C:/Missile_Launcher_Launcher_Bay_Inner_Metallic.png
+map_Bump -bm 1.000000 C:/Missile_Launcher_Launcher_Bay_Inner_Normal.png
+
+newmtl Launcher_Bay_Outer
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Missile_Launcher_Launcher_Bay_Outer_BaseColor.png
+map_Ns C:/Missile_Launcher_Launcher_Bay_Outer_Roughness.png
+map_refl C:/Missile_Launcher_Launcher_Bay_Outer_Metallic.png
+map_Bump -bm 1.000000 C:/Missile_Launcher_Launcher_Bay_Outer_Normal.png
+
+newmtl Launcher_End_Structure
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Missile_Launcher_Launcher_End_Structure_BaseColor.png
+map_Ns C:/Missile_Launcher_Launcher_End_Structure_Roughness.png
+map_refl C:/Missile_Launcher_Launcher_End_Structure_Metallic.png
+map_Bump -bm 1.000000 C:/Missile_Launcher_Launcher_End_Structure_Normal.png
+
+newmtl MainGun_Ladder_Warning
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Main_Vessel_Colour.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Middle_Deck_Area_Main_Vessel_Colour_BaseColor.png
+map_Ns C:/Middle_Deck_Area_Main_Vessel_Colour_Roughness.png
+map_refl C:/Middle_Deck_Area_Main_Vessel_Colour_Metallic.png
+map_Bump -bm 1.500000 C:/Middle_Deck_Area_Main_Vessel_Colour_Normal.png
+
+newmtl Main_Vessel_Colour.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Main_Mast_Section_Main_Vessel_Colour.002_BaseColor.png
+map_Ns C:/Main_Mast_Section_Main_Vessel_Colour.002_Roughness.png
+map_refl C:/Main_Mast_Section_Main_Vessel_Colour.002_Metallic.png
+map_Bump -bm 1.500000 C:/Main_Mast_Section_Main_Vessel_Colour.002_Normal.png
+
+newmtl Material.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Missile_Launcher
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Missile_Launcher_Missile_Launcher_BaseColor.png
+map_Ns C:/Missile_Launcher_Missile_Launcher_Roughness.png
+map_refl C:/Missile_Launcher_Missile_Launcher_Metallic.png
+map_Bump -bm 1.000000 C:/Missile_Launcher_Missile_Launcher_Normal.png
+
+newmtl Nera
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Rear_Loading_Door_Colour
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Middle_Deck_Area_Rear_Loading_Door_Colour_BaseColor.png
+map_Ns C:/Middle_Deck_Area_Rear_Loading_Door_Colour_Roughness.png
+map_refl C:/Middle_Deck_Area_Rear_Loading_Door_Colour_Metallic.png
+map_Bump -bm 1.000000 C:/Middle_Deck_Area_Rear_Loading_Door_Colour_Normal.png
+
+newmtl Red_White_Divided_Flag
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Red_White_Squares_Flag
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Red_White_Stripes_Flag
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Red_Yellow_Diag_Flag
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Ship_Part_Barrel_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Ship_Part_Barrel_02
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Ship_Part_Black_Corroded_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Ship_Part_Black_Corroded_02
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Ship_Part_Black_Corroded_Dirty
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.066637 0.066637 0.066637
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Ship_Part_Pale_Blue
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Ship_Part_Pale_Blue_Main_Dome.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Ship_Part_White_Corroded_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Ship_Part_White_Corroded_02
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Ship_Part_White_Corroded_Dirty_02
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Ship_Part_White_Corroded__Dirty
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Ship_Part_White_Corroded__Dirty_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Ship_Parts_Black
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Ship_Parts_Brass
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Ship_Parts_Brass_Dirty
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Ship_Parts_Pure_Black
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.004949 0.004949 0.004949
+Ks 0.204667 0.204667 0.204667
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Ship_Parts_Red
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Ship_Parts_Red_Corroded
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Ship_Parts_Red_Glass
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Ship_Parts_Red_Glass_Emission
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Ship_Parts_Red_Lifering
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Ship_Parts_Rusty_Red
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Ship_Parts_Rusty_Steel_01
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Ship_Parts_Rusty_Steel_02
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Ship_Parts_Under_Hull
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Ship_Parts_Under_Hull_Rudders
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Ship_Parts_White_Glass_Emission
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Ship_Parts_Yellow_Corroded
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Ship_part_Wood
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Ship_parts_Green_Glass
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Ship_parts_White_Lifering
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Ship_parts_Yellow_Corroded
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Side_Panel
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Side_Panel_Side_Panel_BaseColor.png
+map_Ns C:/Side_Panel_Side_Panel_Roughness.png
+map_refl C:/Side_Panel_Side_Panel_Metallic.png
+map_Bump -bm 1.000000 C:/Side_Panel_Side_Panel_Normal.png
+
+newmtl Side_Panel_Panels
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Side_Panel_Side_Panel_Panels_BaseColor.png
+map_Ns C:/Side_Panel_Side_Panel_Panels_Roughness.png
+map_refl C:/Side_Panel_Side_Panel_Panels_Metallic.png
+map_Bump -bm 1.000000 C:/Side_Panel_Side_Panel_Panels_Normal.png
+
+newmtl Side_Panel_Recess
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Side_Panel_Side_Panel_Recess_BaseColor.png
+map_Ns C:/Side_Panel_Side_Panel_Recess_Roughness.png
+map_refl C:/Side_Panel_Side_Panel_Recess_Metallic.png
+map_Bump -bm 1.000000 C:/Side_Panel_Side_Panel_Recess_Normal.png
+
+newmtl Untitled-Phalanx_weapon
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Warning_Main_Gun
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Yellow_Blue_Band_Flag
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Yellow_Blue_Vertical_Flag
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
